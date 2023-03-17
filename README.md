@@ -15,4 +15,4 @@ Data Science & Business Analytics Tasks
 Computer Vision & Internet of Things
 * Task 2 - attemped
 
-<img src="NNs,jpg" alt="Neural Nets" width="500" height="600">
+<img src="NNs.jpg" alt="Neural Nets" width="500" height="600">
